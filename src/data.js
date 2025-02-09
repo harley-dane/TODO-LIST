@@ -12,11 +12,9 @@ const data = {
             id: 3,
             text: 'Wash dishes',
         },
-        {
-            id: 4,
-            text: 'Call mum',
-        },
+       
     ],
+    id: 4,
 };
 
 export default data;
